@@ -14,3 +14,5 @@ More detailed explanation - https://en.wikipedia.org/wiki/Conway%27s_Game_of_Lif
 
 I wrote the code to this program in two languages: **JavaScript** (using the **p5.js** framework) and **Python 3** (using the **Pygame** library).
 The JS directory has 2 different versions of the game: *conway-limited* (all border cells are permanently dead) and *conway-wrap* (cells wrap around to the other side of the board).
+The Py3 directory has only 1 version, equivalent to the *conway-wrap* in the JS directory.
+At the top of each file 3 variables are listed that can be changed in order to affect the size, speed and dimensions of the program.
