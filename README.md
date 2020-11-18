@@ -11,6 +11,7 @@ The user selects which cells are alive and which are dead at the start, then the
 2. Spacebar - toggle play
 
 More detailed explanation - https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+## Try my p5.js web version here - https://editor.p5js.org/pdemicheli/full/-Q0xdpK9v
 
 I wrote the code to this program in two languages: **JavaScript** (using the **p5.js** framework) and **Python 3** (using the **Pygame** library).
 The JS directory has 2 different versions of the game: *conway-limited* (all border cells are permanently dead) and *conway-wrap* (cells wrap around to the other side of the board).
